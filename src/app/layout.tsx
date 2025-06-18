@@ -10,6 +10,9 @@ export const metadata: Metadata = {
     absolute: "Flow Shop",
   },
   description: "A full-stack wed",
+  icons: {
+    icon: "/logo.png",
+  },
 };
 
 export default function RootLayout({
